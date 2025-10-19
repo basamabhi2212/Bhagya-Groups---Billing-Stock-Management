@@ -1,0 +1,5 @@
+{
+  "name": "Bhagya Groups - Billing & Stock Management",
+  "description": "A comprehensive billing and stock management application for Bhagya Groups, with real-time inventory tracking, estimation and invoicing, and automatic data synchronization to a GitHub repository.",
+  "requestFramePermissions": []
+}
